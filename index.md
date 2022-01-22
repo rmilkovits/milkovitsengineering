@@ -4,7 +4,11 @@ layout: default
 
 # Our Goal
 
-Our organization's goal is to first convert unsecured intellectual property (IP) in the form of "inventions" into secured intellectual property in the form of US utility patents. Next we then leverage our portfolio by licensing or directly selling patents to our clients. 
+Our goal is to advance the technological state-of-the-art in different categories by creating new "inventions" in various fields of business and technology. We then also work with experts in the domains of intellectual property law to protect our inventions under the US patent system.
+
+# Our Process
+
+Our organization's develops technology by creating new technological ideas, or "inventions". We then convert the unsecured intellectual property (IP) of our "inventions" into secured intellectual property in the form of US utility patents. Finally, we leverage our portfolio by licensing or directly selling patents to our clients. 
 
 # About Us
 
