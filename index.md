@@ -8,7 +8,7 @@ Our goal is to advance the technological state-of-the-art in different categorie
 
 # Our Process
 
-Our organization's develops technology by creating new technological ideas, or "inventions". We then convert the unsecured intellectual property (IP) of our "inventions" into secured intellectual property in the form of US utility patents. Finally, we leverage our portfolio by licensing or directly selling patents to our clients. 
+Our organization develops technology by creating new technological ideas, or "inventions". We then convert the unsecured intellectual property (IP) of our "inventions" into secured intellectual property in the form of US utility patents. Finally, we leverage our portfolio by licensing or directly selling patents to our clients. 
 
 # About Us
 
