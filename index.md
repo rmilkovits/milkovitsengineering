@@ -16,4 +16,4 @@ Our founder is Ryan Milkovits, a UCSD graduate and entrepeneur with past startup
 
 # Contact Us
 
-Contact us at (619) 707-7362 or rmilkovits@gmail.com if you would like to work with us. We can generate inventions in your desired area if you reach out to us with a requested type of invention and then acquire the patent for you to buy or license.
+Contact us at (619) 707-7362 or rmilkovits@gmail.com if you would like to work with us. We have multiple IP Portfolios that you can view if you agree to the associated NDA and Non-Use/Non-Patent agreement. We can generate inventions in your desired area if you reach out to us with a requested type of invention and then acquire the patent for you to buy or license.
