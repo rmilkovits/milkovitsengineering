@@ -14,6 +14,10 @@ Our organization develops technology by creating new technological ideas, or "in
 
 Our founder and CEO is Ryan Milkovits, a UCSD graduate and entrepeneur with past startup and patent experience involving drones and biotech. Currently we are seeking to grow our company with new employees that may be wholly or partially compensated with company stock.
 
+# GoFundMe Fundraiser
+
+We are currently fundraising for one of our founder's patented inventions on GoFundMe.com at the following link: [Wearable Anti-Overdose Device Fundraiser](https://www.gofundme.com/f/fund-an-automatic-antioverdose-wearable-device). Please check out the link and consider donating to an important cause that is killing thousands per year.
+
 # Contact Us
 
 Contact us at (442) 217-1889 or rmilkovits@gmail.com if you would like to work with us. We have multiple IP Portfolios that you can view if you agree to the associated NDA (and Non-Use/Non-Patent) Agreement. We can generate inventions for any desired domain or commercial sector if you reach out to us with a requested type of invention for us to generate in less than a week so that you can purchase the invention or patent (which we can do for you if you provide our company money to assist with that task).
